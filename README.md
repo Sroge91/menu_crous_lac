@@ -2,4 +2,4 @@
 
 docker pull sroge91/crous
 
-docker run crous
+docker run sroge91crous
